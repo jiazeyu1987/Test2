@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Icons/Small/DesktopIcon.png">Icons/Small/Slicer-DesktopIcon.png</file>
+        <file alias="Icons/Medium/DesktopIcon.png">Icons/Medium/Slicer-DesktopIcon.png</file>
+        <file alias="Icons/Large/DesktopIcon.png">Icons/Large/Slicer-DesktopIcon.png</file>
+        <file alias="Icons/XLarge/DesktopIcon.png">Icons/XLarge/Slicer-DesktopIcon.png</file>
+        <file alias="Icons/XXLarge/DesktopIcon.png">Icons/XXLarge/Slicer-DesktopIcon.png</file>
+        <file alias="Logo.png">Images/Slicer-Logo.png</file>
+        <file alias="ModulePanelLogo.png">Images/Slicer-ModulePanelLogo.png</file>
+        <file alias="SplashScreen.png">Images/Slicer-SplashScreen.png</file>
+    </qresource>
+    <qresource prefix="/register">
+        <file>SlicerResources/register/ACPC.png</file>
+        <file>SlicerResources/register/close.png</file>
+        <file>SlicerResources/register/loading_wait.png</file>
+        <file>SlicerResources/register/question.png</file>
+        <file>SlicerResources/register/register_fail.png</file>
+        <file>SlicerResources/register/register_for_check.png</file>
+        <file>SlicerResources/register/register_ok.png</file>
+        <file>SlicerResources/register/register_origin.png</file>
+        <file>SlicerResources/register/registration_icon_basic.png</file>
+        <file>SlicerResources/register/registration_icon_move.png</file>
+        <file>SlicerResources/register/registrationIcon.png</file>
+        <file>SlicerResources/register/serialsIcon.png</file>
+        <file>SlicerResources/register/setting.png</file>
+        <file>Images/Slicer-SplashScreen.png</file>
+    </qresource>
+    <qresource prefix="/public">
+        <file>SlicerResources/public/DownArrow.png</file>
+        <file>SlicerResources/public/UpArrow.png</file>
+        <file>SlicerResources/public/close.png</file>
+        <file>SlicerResources/public/finish.png</file>
+        <file>SlicerResources/public/tip.png</file>
+        <file>SlicerResources/public/warning.png</file>
+        <file>SlicerResources/public/Sliderhandle.png</file>
+        <file>SlicerResources/public/checked.png</file>
+        <file>SlicerResources/public/unchecked.png</file>
+        <file>SlicerResources/public/Sliderhandle2.png</file>
+        <file>SlicerResources/public/partchecked.png</file>
+    </qresource>
+</RCC>
